@@ -1,4 +1,4 @@
-Title: Smart To‑Do List with AI Context Integration
+<img width="1893" height="879" alt="image" src="https://github.com/user-attachments/assets/2b18d714-3015-4969-befc-783d2066c32e" />Title: Smart To‑Do List with AI Context Integration
 Description:
 A full‑stack task management application built with Django REST Framework (backend) and React + Tailwind CSS (frontend) featuring:
 
@@ -63,6 +63,8 @@ Add Daily Context from /context page
 Click "✨ Analyze Context with AI" to get actionable multi‑task insights
 
 Apply new tasks or updates manually (future: one‑click add)
+ScreenShots of UI
+<img width="1893" height="879" alt="image" src="https://github.com/user-attachments/assets/7591b36c-6c3d-4230-b39c-18673328b62c" />
 
 
 
